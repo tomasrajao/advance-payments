@@ -1,0 +1,5 @@
+django
+requests
+gunicorn
+python-decouple
+dj-database-url
