@@ -1,0 +1,1 @@
+web: gunicorn advpay.wsgi --log-file
